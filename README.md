@@ -68,12 +68,15 @@ funktionieren.
 
 ## Wireframe
 ![Wireframe](Images/Wireframe.png)
-## Testplan
-Got it! Here's your **simplified single table** with one checkbox per test case.  
 
+## Testplan
+- Device: Android devices (Android 8 and above)
+- Screen Modes: Portrait & Landscape
+- Storage: Local device storage
+- Test Tools: Manual Testing
 ---
 
-## **Test Cases: Shopping List App**  
+### Test Cases 
 
 | Test Description | Steps | Expected Result | Status |
 |-----------------|-------|----------------|--------|
